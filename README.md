@@ -7,6 +7,7 @@ O projeto integrador é uma ferramenta chamada Branch, que vem da ideia de ramif
 O aplicativo foi implementado com base em um protótipo desenvolvido e aprimorado em sala de aula, com a finalidade de desenvolvermos softskills e expertise para o mercado de trabalho;
 
 Este foi o protótipo desenvolvido e validado:
+* [Figma](https://www.figma.com/proto/c8Iu7IsOIOfovXc1zNv89Z/Branch---ETE?node-id=52-214&t=CvF9HoVou4iDcKUf-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
 <img src="assets/protótipo.png" alt="Exemplo imagem">
 
 ## 🛠️ Construído com
