@@ -7,7 +7,7 @@ O projeto integrador é uma ferramenta chamada Branch, que vem da ideia de ramif
 O aplicativo foi implementado com base em um protótipo desenvolvido e aprimorado em sala de aula, com a finalidade de desenvolvermos softskills e expertise para o mercado de trabalho;
 
 Este foi o protótipo desenvolvido e validado:
-<img src="imagem.png" alt="Exemplo imagem">
+<img src="assets/protótipo.png" alt="Exemplo imagem">
 
 ## 🛠️ Construído com
 
@@ -23,7 +23,7 @@ Mencione as ferramentas que você usou para criar seu projeto
 
 ## 📄 Licença
 
-Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md]((https://github.com/thsethub/Branch/tree/main?tab=MIT-1-ov-file)) para detalhes.
+Este projeto está sob a licença (MIT license) - veja o arquivo [LICENSE.md]((https://github.com/thsethub/Branch/tree/main?tab=MIT-1-ov-file)) para detalhes.
 
 ---
 ⌨️ por [Thiago Augusto](https://github.com/thsethub) 😊
