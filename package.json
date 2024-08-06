@@ -1,0 +1,29 @@
+{
+  "name": "branch",
+  "version": "1.0.0",
+  "main": "expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@expo-google-fonts/anonymous-pro": "^0.2.3",
+    "@react-navigation/native-stack": "^6.9.26",
+    "@supabase/supabase-js": "^2.43.5",
+    "expo": "~51.0.14",
+    "expo-application": "~5.9.1",
+    "expo-font": "^12.0.7",
+    "expo-status-bar": "~1.12.1",
+    "paho-mqtt": "^1.1.0",
+    "react": "18.2.0",
+    "react-native": "^0.74.2",
+    "react-native-animatable": "^1.4.0",
+    "react-native-url-polyfill": "^2.0.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0"
+  },
+  "private": true
+}

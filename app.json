@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "Branch",
+    "slug": "Branch",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#0B3E25"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.thsethub.Branch"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.thsethub.Branch"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "ee0ec75d-01bb-4038-965f-ca1798c383fe"
+      }
+    }
+  }
+}
