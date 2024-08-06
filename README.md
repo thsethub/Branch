@@ -11,7 +11,7 @@ Este foi o protótipo desenvolvido e validado:
 
 ## 🛠️ Construído com
 
-Mencione as ferramentas que você usou para criar seu projeto
+Ferramentas utilizadas para o desenvolvimento da aplicação:
 
 * [Expo](https://docs.expo.dev/) 
 * [React Native](https://reactnative.dev/docs/environment-setup)
@@ -19,7 +19,7 @@ Mencione as ferramentas que você usou para criar seu projeto
 
 ## ✒️ Autores
 
-* **thsethub** - *Trabalho Inicial* e *Documentação*- [Thiago Augusto](https://github.com/thsethub)
+* **thsethub** - *Trabalho Inicial* e *Documentação* - [Thiago Augusto](https://github.com/thsethub)
 
 ## 📄 Licença
 
